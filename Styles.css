@@ -1,0 +1,47 @@
+h1{
+  color: rgb(255, 0, 0);
+  font-family: 'Quicksand', sans-serif;
+  font-size: 5em;
+  margin-left: 50;
+}
+
+h2{
+  color: rgb(0, 117, 0);
+  font-family: 'Quicksand', sans-serif;
+  font-size: 2.5em;
+  margin-left: 50;
+
+}
+
+body{
+  color: rgb(0,35,255);
+  font-family: 'Nanum Gothic', sans-serif;
+  margin: 30px;
+}
+
+ul{
+  list-style: none;
+  text-align: left;
+  padding: 0;
+  font-weight: bolder;
+  justify-content: space-evenly;
+}
+
+div.hero{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+}
+
+div.Cunningam{
+display: flex;
+justify-content: center;
+align-items:center;
+flex-direction: column
+}
+div.Graham{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  flex-direction: column
+}
